@@ -1,0 +1,18 @@
+/* h2 {
+  padding-left: 50px;
+} */
+
+.footer_div {
+  display: flex;
+  justify-content: space-around;
+  background-color: #0b3156;
+  padding-bottom: 300px;
+  height: 300px;
+  width: 100%;
+}
+
+.footer2_div {
+  flex-direction: column;
+  color: antiquewhite;
+  list-style: none;
+}
